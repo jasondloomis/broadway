@@ -58,6 +58,7 @@ footer {
   text-align: left;
 }
 
-.nav {
+.nav, a:link, a:visited {
   font-size: 18px;
+  color: #fff;
 }
